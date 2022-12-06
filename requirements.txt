@@ -1,1 +1,20 @@
-streamlit
+streamlit=1.15.0
+pandas==1.5.1
+numpy==1.23.4
+opencv-python-headless==4.6.0.66
+streamlit-webrtc==0.44.0
+pyyaml>=5.3.1
+scipy>=1.9.3
+av==10.0.0
+PIMS==0.6.1
+moviepy==1.0.3
+imagesize>=1.4.1
+gdown==4.6.0
+itables==1.4.1
+dataclass-csv==1.4.0
+ffmpeg-python==0.2.0
+PIMS==0.6.1
+
+# Plotting --------
+matplotlib>=3.5.3
+seaborn>=0.11.0
