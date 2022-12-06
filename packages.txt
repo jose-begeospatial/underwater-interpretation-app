@@ -1,1 +1,9 @@
-
+ffmpeg
+libsm6 
+libxext6
+libavcodec-dev
+libavformat-dev
+libswscale-dev
+libv4l-dev
+libxvidcore-dev 
+libx264-dev
